@@ -18,3 +18,4 @@ jobs:
           context: .
           push: true          # ← obligatoire
           tags: ghcr.io/fabienhamot/plakar:latest
+
